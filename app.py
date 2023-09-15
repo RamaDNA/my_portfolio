@@ -138,7 +138,7 @@ elif choice == 'My project':
             validate_sentiment(text_sentiment)
         with explanation:
             st.header("Explain Machine Learning")
-            st.write("We can prediction what's meaning feedback is Positif or Negatif just insert ur comment")
+            st.write("We can prediction what's meaning feedback is Positif or Negatif just insert ur comment if ur in smartphone just click button ctrl + enter")
     with st.container():
         st.write("---")
         st.header("I Will update Soon to upload my next project")
